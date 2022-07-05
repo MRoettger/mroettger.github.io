@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    padding: 32px;
+}
+
+p {
+    text-align: center;
+}
+
+.aktivitaeten {
+    background-color: #F3F3F3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 10vh;
+    padding: 20px
+}
